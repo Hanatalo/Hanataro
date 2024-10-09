@@ -1,2 +1,2 @@
 # Hanataro
-my BIO
+This is my first bio
